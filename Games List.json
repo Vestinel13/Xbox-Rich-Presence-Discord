@@ -866,6 +866,13 @@
           "type": 1
         },
         {
+          "titlename": "Persona 5 Royal",
+          "titleimage": "Persona_5_Royal",
+          "titleicon": "https://image.api.playstation.com/cdn/EP4062/CUSA06638_00/0fSaYhFhEVP183JLTwVec7qkzmaHNMS2.png?w=620&thumb=false",
+          "titlebackground": "https://image.api.playstation.com/vulcan/img/rnd/202011/0204/XTbLZ4M3vFxy3WFHB66Ja9qL.jpg?w=1920&thumb=false",
+          "type": 1
+        },
+        {
           "titlename": "Tetris Effect: Connected",
           "titleimage": "Tetris_Effect_Connected",
           "titleicon": "https://image.api.playstation.com/vulcan/img/rnd/202108/0922/btyvYPfAuS53lkGbeK8ZaWzN.png",
