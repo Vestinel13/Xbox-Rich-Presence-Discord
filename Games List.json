@@ -887,17 +887,10 @@
           "type": 1
         },
         {
-          "titlename": "Rust: Console Edition",
-          "titleimage": "Rust_Console_Edition",
-          "titleicon": "https://cdn.upload.systems/uploads/UWxkgL5s.png",
-          "titlebackground": "https://image.api.playstation.com/vulcan/ap/rnd/202103/1609/wBzFi5s20C1I7o3A5iEFWNuI.jpg",
-          "type": 1
-        },
-        {
-          "titlename": "Dead by Daylight",
-          "titleimage": "Dead_by_Daylight",
-          "titleicon": "https://cdn.upload.systems/uploads/vWG3kANz.png",
-          "titlebackground": "https://image.api.playstation.com/vulcan/ap/rnd/202203/1520/GxoUQHbrinQCjkNmBqwgr7Ij.jpg",
+          "titlename": "Wo Long: Fallen Dynasty,
+          "titleimage": "Wo Long: Fallen Dynasty",
+          "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2609/lgPM04qlLofxYamtlfMfqkHZ.png",
+          "titlebackground": "https://www.koeitecmoeurope.com/wp-content/uploads/2022/09/WoLong-GamePageBanner-rev.jpg",
           "type": 1
         }
       ]
